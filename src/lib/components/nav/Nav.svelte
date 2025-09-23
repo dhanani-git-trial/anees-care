@@ -11,19 +11,19 @@
 
   <!-- Phone -->
   <a href="tel:+18177290428" class="flex items-center">
-    <Phone class="mr-3 w-5 h-5" />
-    <span class="hidden sm:inline">817-729-0428</span>
+    <Phone class="mr-3 w-6 h-6 flex-shrink-0" />
+    <span class="hidden md:inline">817-729-0428</span>
   </a>
 
   <!-- Fax -->
   <a href="tel:+18045851960" class="flex items-center">
-    <Fax class="mr-3 w-5 h-5" />
-    <span class="hidden sm:inline">804-585-1960</span>
+    <Fax class="mr-3 w-6 h-6 flex-shrink-0" />
+    <span class="hidden md:inline">804-585-1960</span>
   </a>
 
   <!-- Email -->
   <a href="mailto:anee.care92@gmail.com" class="flex items-center">
-    <Envelope class="mr-3 w-5 h-5" />
-    <span class="hidden sm:inline">anee.care92@gmail.com</span>
+    <Envelope class="mr-3 w-6 h-6 flex-shrink-0" />
+    <span class="hidden md:inline">anee.care92@gmail.com</span>
   </a>
 </div>
