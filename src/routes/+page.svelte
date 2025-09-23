@@ -24,18 +24,6 @@
     <li class="font-bold">and much more!</li>
   </ul>
 </Container>
-<Container heading="Services">
-  <ul class="list-disc pl-8">
-    <li>Service Facilitating for Consumer-Directed Programs</li>
-    <li>Personal Care Assistance</li>
-    <li>Respite Care Assistance</li>
-    <li>Healthcare Consulting</li>
-    <li>Wound Care</li>
-    <li>Medication Management and Teaching</li>
-    <li>Skilled Nursing</li>
-    <li class="font-bold">and much more!</li>
-  </ul>
-</Container>
 <Container heading="Contact Me">
   <p class="mb-4">
     If you have any questions or need assistance, please feel free to contact me!
