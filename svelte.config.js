@@ -15,6 +15,13 @@ const config = {
 		paths: {
 			base: process.argv.includes("dev") ? '' : process.env.BASE_PATH
 		},
+
+		alias: {
+			"@root": "src/",
+			"@lib": "src/lib",
+			"@ui": "src/lib/ui",
+			"@components": "src/lib/components"
+		}
 	}
 };
 
