@@ -4,16 +4,17 @@
 
 /* ------------------ THEME ------------------ */
 @theme {
-  --font-varela-round: 'Varela Round', sans-serif;
-  --font-poppins: 'Poppins', sans-serif;
-  --color-lavender: #c8aeb9;
-  --color-purple: #723585;
-  --color-deepgreen: #2e7d32;
+  --font-varela-round: 'Varela Round', sans-serif;    /*font*/
+  --font-poppins: 'Poppins', sans-serif;              /*font*/
+  --color-lavender: #c8aeb9;                          /*color*/
+  --color-purple: #723585;                            /*color*/
+  --color-deepgreen: #2e7d32;                         /*color*/
+  --breakpoint-xs: 26.25rem;                          /*responsive design - making a new breakpoint for EXTRA SMALL*/
 }
 
 /* ------------------ BASE ------------------ */
 @layer base {
-  html,
+  html,                                               /*html & body CSS*/
   body {
     @apply size-full;
     font-family: var(--font-varela-round);
@@ -22,3 +23,4 @@
     padding: 0;
   }
 }
+

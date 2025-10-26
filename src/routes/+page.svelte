@@ -27,10 +27,10 @@
 <Container heading="Contact Me">
 <p class="text-center">If you have any questions or need assistance, please feel free to contact me!</p>
 <div class="flex items-center justify-center">
-  <div class="mr-20">
-    <p class="text-[20px] font-bold">Anisa Merchant</p>
+  <div class="xs:mr-[20px] mr-auto">
+    <p class="font-bold xs:text-[20px] text-[16px]">Anisa Merchant</p>
   </div>
-  <div class="mt-[12px]">
+  <div class="mt-[12px] sm:text-[16px] text-[14px]">
     <a
       href="tel:+18177290428"
       class="text-blue-700 underline hover:text-blue-900"
