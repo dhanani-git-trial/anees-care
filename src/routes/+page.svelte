@@ -25,19 +25,23 @@
   </ul>
 </Container>
 <Container heading="Contact Me">
-  <p class="mb-4">
-    If you have any questions or need assistance, please feel free to contact me!
-  </p>
-  <span class="font-semibold text-lg mb-2">Anisa Merchant</span>
-
-<p class="mb-2">
-  <span class="ml-10">(817) 729-0428</span>
-  <span class="italic text-[var(--color-purple)]">*Preferred*</span>
-  <br>
-   <a href="mailto:anee.care92@gmail.com" class="ml-10 text-blue-700 underline hover:text-blue-900">
+<p class="text-center">If you have any questions or need assistance, please feel free to contact me!</p>
+<div class="flex items-center justify-center">
+  <div class="mr-20">
+    <p class="text-[20px] font-bold">Anisa Merchant</p>
+  </div>
+  <div class="mt-[12px]">
+    <span>(817) 729-0428 </span>
+    <span class="italic text-[var(--color-purple)]">*Preferred*</span>
+    <br>
+    <a
+      href="mailto:anee.care92@gmail.com"
+      class="text-blue-700 underline hover:text-blue-900"
+    >
       anee.care92@gmail.com
     </a>
-</p>
+  </div>
+</div>
 </Container>
 </div>
 <Footer/>
