@@ -17,9 +17,7 @@ const config = {
 		},
 
 		alias: {
-			"@root": "src/",
 			"@lib": "src/lib",
-			"@ui": "src/lib/ui",
 			"@components": "src/lib/components"
 		}
 	}

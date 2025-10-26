@@ -31,7 +31,12 @@
     <p class="text-[20px] font-bold">Anisa Merchant</p>
   </div>
   <div class="mt-[12px]">
-    <span>(817) 729-0428 </span>
+    <a
+      href="tel:+18177290428"
+      class="text-blue-700 underline hover:text-blue-900"
+    >
+      (817) 729-0428
+    </a>
     <span class="italic text-[var(--color-purple)]">*Preferred*</span>
     <br>
     <a
