@@ -32,7 +32,7 @@
 
 <p class="mb-2">
   <span class="ml-10">(817) 729-0428</span>
-  <span class="italic text-[var(--color-purple)]">*Most Recommended*</span>
+  <span class="italic text-[var(--color-purple)]">*Preferred*</span>
   <br>
    <a href="mailto:anee.care92@gmail.com" class="ml-10 text-blue-700 underline hover:text-blue-900">
       anee.care92@gmail.com
